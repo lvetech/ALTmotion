@@ -8,4 +8,6 @@ The motion detection code is fast, it takes less than 1 ms for it to complete fo
 
 ALTmotion detection example: https://youtu.be/RJU-0Aq_8BQ 
 
+screenshot:
+
 ![ALTmotion detection example](/pictures/ALTmotion-detection-example.png)
